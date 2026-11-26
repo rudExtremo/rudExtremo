@@ -52,7 +52,7 @@ My core focus is software quality, risk-based testing, API validation and test a
 | [rQuickShare](https://morozhenko.com/qs/gh) | Nearby file and message sharing for Linux | Rust, GTK4, Quick Share |
 | [BannerMatch](https://morozhenko.com/bm/gh) | Turn-based medieval tactical duels | Unity, C#, deterministic simulation |
 | [Chroma Bankshot](https://morozhenko.com/cb/gh) | Precision physics-based ricochet puzzle game | React, TypeScript, Vite, Capacitor |
-| ArcVault *(upcoming)* | Local-first backup and offline recovery for GitHub repositories and local projects | C#, .NET, Avalonia, C++ |
+| [ArcVault](https://morozhenko.com/av/gh) | Local-first backup and offline recovery for GitHub repositories and local projects | C#, .NET, Avalonia, C++ |
 
 ## Other projects
 
