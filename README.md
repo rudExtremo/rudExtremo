@@ -4,7 +4,7 @@
 <p align="center">Braga, Portugal · Web, Mobile, Desktop & Game Development</p>
 
 <p align="center">
-  <a href="https://morozhenko.com/en/"><img src="assets/portfolio.svg" alt="Portfolio"></a>
+  <a href="https://morozhenko.com/s/gh"><img src="assets/portfolio.svg" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/stanislav-moseyko/"><img src="assets/linkedin.svg" alt="LinkedIn"></a>
   <a href="https://github.com/morozhenko-apps"><img src="assets/projects.svg" alt="GitHub organization"></a>
 </p>
@@ -49,14 +49,14 @@ My core focus is software quality, risk-based testing, API validation and test a
 
 | Product | Description | Stack |
 | :--- | :--- | :--- |
-| [AppStreak](https://morozhenko.com/en/appstreak/) | Android app-launch tracking for closed testing routines | Kotlin, Compose, Room |
-| [ClearSub](https://morozhenko.com/en/clearsub/) | Offline subscription management and renewal reminders | Flutter, Dart, SQLite |
-| [HandyLog](https://morozhenko.com/en/handylog/) | Offline-first CRM for independent professionals | Flutter, Dart, SQLite |
-| [Picturix](https://morozhenko.com/en/picturix/) | Local desktop media organization and duplicate detection | .NET, Avalonia |
-| [BannerMatch](https://morozhenko.com/en/bannermatch/) | Turn-based medieval tactics game | Unity, C# |
-| [Chroma Bankshot](https://morozhenko.com/en/chromabankshot/) | Physics-based ricochet puzzle game | React, TypeScript, Capacitor |
+| [AppStreak](https://morozhenko.com/as/gh) | Android app-launch tracking for closed testing routines | Kotlin, Compose, Room |
+| [ClearSub](https://morozhenko.com/cs/gh) | Offline subscription management and renewal reminders | Flutter, Dart, SQLite |
+| [HandyLog](https://morozhenko.com/h/gh) | Offline-first CRM for independent professionals | Flutter, Dart, SQLite |
+| [Picturix](https://morozhenko.com/px/gh) | Local desktop media organization and duplicate detection | .NET, Avalonia |
+| [BannerMatch](https://morozhenko.com/bm/gh) | Turn-based medieval tactics game | Unity, C# |
+| [Chroma Bankshot](https://morozhenko.com/cb/gh) | Physics-based ricochet puzzle game | React, TypeScript, Capacitor |
 
-Many of my published products have private source repositories. Product pages, demos and available downloads are listed in my [full portfolio](https://morozhenko.com/en/).
+Many of my published products have private source repositories. Product pages, demos and available downloads are listed in my [full portfolio](https://morozhenko.com/s/gh).
 
 ## Engineering principles
 
@@ -68,7 +68,7 @@ Many of my published products have private source repositories. Product pages, d
 ---
 
 <p align="center">
-  <a href="https://morozhenko.com/en/">Explore the full portfolio</a> ·
+  <a href="https://morozhenko.com/s/gh">Explore the full portfolio</a> ·
   <a href="https://www.linkedin.com/in/stanislav-moseyko/">Connect on LinkedIn</a>
 </p>
 
