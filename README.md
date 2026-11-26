@@ -44,19 +44,34 @@ My core focus is software quality, risk-based testing, API validation and test a
 | [Human Grinder](https://github.com/rudExtremo/HumanGrinder) | Co-developed gothic action roguelite for the Controlled Chaos game jam; in development | Unity, C# |
 | [RepoTicker](https://github.com/morozhenko-apps/repoticker) | Desktop repository and CI status dashboard | Rust, Tauri |
 | [CFVigil](https://github.com/morozhenko-apps/cfvigil) | Desktop deployment monitoring utility | Rust, Tauri |
+| [rQuickShare](https://github.com/morozhenko-apps/rquickshare) | Nearby file sharing for Linux | Rust, GTK4 |
 
-## Published products
+## Product portfolio
 
 | Product | Description | Stack |
 | :--- | :--- | :--- |
-| [AppStreak](https://morozhenko.com/as/gh) | Android app-launch tracking for closed testing routines | Kotlin, Compose, Room |
-| [ClearSub](https://morozhenko.com/cs/gh) | Offline subscription management and renewal reminders | Flutter, Dart, SQLite |
-| [HandyLog](https://morozhenko.com/h/gh) | Offline-first CRM for independent professionals | Flutter, Dart, SQLite |
-| [Picturix](https://morozhenko.com/px/gh) | Local desktop media organization and duplicate detection | .NET, Avalonia |
-| [BannerMatch](https://morozhenko.com/bm/gh) | Turn-based medieval tactics game | Unity, C# |
-| [Chroma Bankshot](https://morozhenko.com/cb/gh) | Physics-based ricochet puzzle game | React, TypeScript, Capacitor |
+| [AppStreak](https://morozhenko.com/as/gh) | App-launch tracking for closed testing routines | Kotlin, Jetpack Compose, Room |
+| [ClearSub](https://morozhenko.com/cs/gh) | Subscription management, spending and renewal reminders | Flutter, Dart, Riverpod, SQLite |
+| [HandyLog](https://morozhenko.com/h/gh) | Offline-first CRM for field professionals | Flutter, Dart, Riverpod, SQLite |
+| [Cycle Whisper](https://morozhenko.com/cw/gh) | Private, offline menstrual cycle tracker and personal journal | Flutter, Dart, BLoC, SQLite |
+| [Retelingo](https://morozhenko.com/rt/gh) | Offline vocabulary learning, pronunciation and spaced repetition | Flutter, Dart, Riverpod, SQLite, FSRS |
+| [To-Do List Offline](https://morozhenko.com/td/gh) | Offline task planning, recurring tasks and reminders | Flutter, Dart, Riverpod, SQLite |
+| [Picturix](https://morozhenko.com/px/gh) | Local photo and video organization and exact duplicate detection | .NET 10, Avalonia, Native AOT |
+| [RepoTicker](https://morozhenko.com/rk/gh) | Repository status and GitHub Actions monitoring | Rust, Tauri 2, Git |
+| [CFVigil](https://morozhenko.com/cf/gh) | Cloudflare Workers and Pages deployment monitoring | Rust, Tauri 2, Cloudflare API |
+| [rQuickShare](https://morozhenko.com/qs/gh) | Nearby file and message sharing for Linux | Rust, GTK4, Quick Share |
+| [BannerMatch](https://morozhenko.com/bm/gh) | Turn-based medieval tactical duels | Unity, C#, deterministic simulation |
+| [Chroma Bankshot](https://morozhenko.com/cb/gh) | Precision physics-based ricochet puzzle game | React, TypeScript, Vite, Capacitor |
+| ArcVault *(upcoming)* | Local-first backup and offline recovery for GitHub repositories and local projects | C#, .NET, Avalonia, C++ |
 
-Many of my published products have private source repositories. Product pages, demos and available downloads are listed in my [full portfolio](https://morozhenko.com/s/gh).
+## Other projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| Proteus | Telegram moderation bot with configurable automation rules | TypeScript, Telegram Bot API, Cloudflare Workers |
+| [2VRTX](https://2vrtx.com/) | Client website for an architectural visualization and animation studio | Astro, TypeScript, Tailwind CSS |
+
+Some products have private source repositories. Product pages, demos and available downloads are listed in my [full portfolio](https://morozhenko.com/s/gh).
 
 ## Engineering principles
 
