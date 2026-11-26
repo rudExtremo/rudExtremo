@@ -36,16 +36,6 @@ My core focus is software quality, risk-based testing, API validation and test a
 
 ![PostgreSQL, SQLite, Git, GitHub Actions, Linux, Cloudflare, Stripe, Telegram API](assets/delivery.svg)
 
-## Featured public repositories
-
-| Project | Focus | Stack |
-| :--- | :--- | :--- |
-| [Socks Shopping Store](https://github.com/morozhenko-apps/SocksShoppingStore) | QA engineering showcase: automated, performance and security testing | C#, ASP.NET Core, NUnit, Selenium, k6, ZAP, Allure |
-| [Human Grinder](https://github.com/rudExtremo/HumanGrinder) | Co-developed gothic action roguelite for the Controlled Chaos game jam; in development | Unity, C# |
-| [RepoTicker](https://github.com/morozhenko-apps/repoticker) | Desktop repository and CI status dashboard | Rust, Tauri |
-| [CFVigil](https://github.com/morozhenko-apps/cfvigil) | Desktop deployment monitoring utility | Rust, Tauri |
-| [rQuickShare](https://github.com/morozhenko-apps/rquickshare) | Nearby file sharing for Linux | Rust, GTK4 |
-
 ## Product portfolio
 
 | Product | Description | Stack |
@@ -68,6 +58,7 @@ My core focus is software quality, risk-based testing, API validation and test a
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [Socks Shopping Store](https://github.com/morozhenko-apps/SocksShoppingStore) | QA engineering showcase: automated, performance and security testing | C#, ASP.NET Core, NUnit, Selenium, k6, ZAP, Allure |
 | Proteus | Telegram moderation bot with configurable automation rules | TypeScript, Telegram Bot API, Cloudflare Workers |
 | [2VRTX](https://2vrtx.com/) | Client website for an architectural visualization and animation studio | Astro, TypeScript, Tailwind CSS |
 
